@@ -1,0 +1,2 @@
+# preguntados
+proyecto pygame preguntados 
